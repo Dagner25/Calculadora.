@@ -1,4 +1,6 @@
-Calculadora#
+Calculadora:
+
+Elaboramos una calculadora que nos ayuda a  resolver problemas basicos,  Con todo lo aprendido hasta el momento,  algo basico de mucha importancia .
 
 import sys 
 
